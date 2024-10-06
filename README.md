@@ -7,7 +7,9 @@ It updates tavern cards from v1 to v2 in bulk
 
 # Usage
 `perl bulkV1toV2.pl [path to tavern cards] [path to output]`
+
 If no source path is provided, it will default to '.' (current directory).
+
 If no output path is provided, it will overwrite the source files.
 
 # Example
